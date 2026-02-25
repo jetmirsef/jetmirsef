@@ -1,5 +1,5 @@
 # 💫 About Me:
-CEO of Syntax Development<br>CEO of NewGen Roleplay<br>Backend Developer at NewGen Roleplay
+CEO of Syntax Development<br>CEO of Nocturn Roleplay<br>Fullstack Developer at NewGen Roleplay
 
 
 ## 🌐 Socials:
